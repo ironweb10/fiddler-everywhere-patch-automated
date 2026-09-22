@@ -1,4 +1,4 @@
-## [中文翻译版](README_CN.md)
+## LOOK RELEASES
 
 > [!WARNInG]
 > FE `v8.x.x` support is not yet automated here. You need to follow [parent-repo](https://github.com/msojocs/fiddler-everywhere-enhance)
